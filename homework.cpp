@@ -2,8 +2,6 @@
 #include <math.h>
 
 using namespace std;
-
-int main()
 int main()
 {   // var 16 num 6
     cout << "enter the three-digit number x ";
