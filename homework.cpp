@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {   // var 16 num 6
     cout << "enter the three-digit number x ";
-    int x;
+    int x = 0;
     cin >> x;
     int y = x/10;
     cout << "number = " << (x % 10) * 100 + y << endl << endl;
